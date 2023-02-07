@@ -16,3 +16,6 @@ angles (LSAs) are found after detecting the corners of vertebrae using a Harris 
 very small mean errors of 0.29° and 0.38°, respectively.
 
 
+Kindly email at malaikamushtaq00@gmail.com if you need mid sagittal MRI images with yolo annotations.
+
+Paper Link: https://www.mdpi.com/1424-8220/22/4/1547
