@@ -14,3 +14,5 @@ through HED U-Net, which is a combination of segmentation and edge detection fra
 obtain the segmented vertebrae and its edges. Lumbar lordortic angles (LLAs) and lumbosacral
 angles (LSAs) are found after detecting the corners of vertebrae using a Harris corner detector with
 very small mean errors of 0.29° and 0.38°, respectively.
+
+
